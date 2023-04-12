@@ -36,5 +36,5 @@ _add_nvpro_core_lib()
 
 #####################################################################################
 # Add chapters
-#add_subdirectory(edit) # Empty starting project
-add_subdirectory(ray_tracing_before) 
+add_subdirectory(edit) # Empty starting project
+#add_subdirectory(ray_tracing_before) 

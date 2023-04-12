@@ -3,5 +3,18 @@
         "xstring": "cpp",
         "vector": "cpp"
     },
+    "clangd.fallbackFlags": [
+        "-IE:/repository/nvpro_core/",
+        "-IE:/repository/NVIDIA_mini_pathTracer/",
+        "-IE:/Vulkan/Include",
+        "-IE:/repository/nvpro_core/imgui/",
+        "-IE:/repository/nvpro_core/third_party/imgui/",
+        "-IE:/repository/nvpro_core/nvp",
+        "-IE:/repository/nvpro_core/third_party",
+        "-IE:/repository/NVIDIA_mini_pathTracer/common",
+        "-IE:/repository/nvpro_core/third_party/tinyobjloader",
+        "-IE:/repository/nvpro_core/third_party/tinygltf",
+        "-IE:/repository/nvpro_core/third_party/glfw/include"
+    ],
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
 }
